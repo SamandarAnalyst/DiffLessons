@@ -1,0 +1,39 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct 20 17:55:34 2023
+
+@author: DataAnalyst
+"""
+
+                    What is Algorithm
+
+Algoritm - bu muammolarni hal qilish uchun aniq ketma-ketlikda berilgan ko'rsatmalar to'plami
+
+
+                    Yaxshi algoritmning belgisi
+1. Kirish (muammo) va chiqish (yechim) aniq berilgan bo'lishi kerak
+2. Algoritmning har bir bosqichi aniq va ravshan bo'lishi kerak
+3. Algoritm muammoni hal qilishning turli usullari orasida eng samaralisi bo'lishi kerak
+4. Algoritmda kamputer kodi bo'lmasligi kerak
+
+
+
+                    Algoritmga misollar
+1. Start
+2. son1, son2 va summa o'zgaruvchilarini yaratamiz
+3. son1 va son2 qiymatlarini qabul qilamiz
+4. son1 va son2 qo'shamiz , natijani summa ga yuklaymiz:
+summa = son1 + son2
+5. summa ni foydalanuvchiga qaytaramiz
+6. Stop
+
+
+                    Uchtasidan kattasini topish
+1. Start
+2. a, b va c qiymatlarini olamiz
+3. Agar a > b bo'lsa
+    agar b > c
+        b eng katta son
+    aks holda
+        c eng katta son
+ 

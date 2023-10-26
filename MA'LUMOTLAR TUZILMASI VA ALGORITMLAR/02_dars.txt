@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct 20 18:07:03 2023
+
+@author: DataAnalyst
+"""
+
+# Searchs
+
+                    Linear Search
+Chiziqli qidirish = bu qidirishning eng oson yo'li, bunda boshidan har bitta indexni qarab chiqadi kerakli narsa topilmaguncha to'xtamaydi
+
+                    Binary Search
+Tasavvur qiling siz Ingliz-O'zbek lug'atidan "Programming" so'zining tarjimasini qidirayapsiz. Siz ingliz alifbosidagi harflar tartibini bilasiz, shuning uchun lug'atni o'rtarog'idan ochib qaraysiz (P harfi lug'at o'rtasiga yaqin). 
